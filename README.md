@@ -1,1 +1,2 @@
-# pirate-game-1.5
+# PRO-C23-SA-boilerplate
+boilerplate code for C23
